@@ -9,11 +9,11 @@ $query  = $conn->query("SELECT nip,nama FROM pegawai WHERE nip LIKE '$nip%' ORDE
 $result = $query->fetch_all(MYSQLI_ASSOC);
 
 // Format bentuk data untuk autocomplete.
-foreach($result as $data) {
+foreach ($result as $data) {
     $output['suggestions'][] = [
-        'value' => $data['nip']." - ".$data['nama'],
-        'nip' => $data['nip'],
-        'nama' => $data['nama'],
+        'value' => $data['nip'] . " - " . $data['nama'],
+        'nip'   => $data['nip'],
+        'nama'  => $data['nama'],
     ];
 }
 

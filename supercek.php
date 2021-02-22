@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <?php error_reporting(0); ?>
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -25,7 +26,7 @@
                     <li class="nav-item">
                         <a href="k0r3k5i.php" class="nav-link">
                             <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" fill="currentColor" class="bi bi-tools" viewBox="0 0 16 16">
-                                <path d="M1 0L0 1l2.2 3.081a1 1 0 0 0 .815.419h.07a1 1 0 0 1 .708.293l2.675 2.675-2.617 2.654A3.003 3.003 0 0 0 0 13a3 3 0 1 0 5.878-.851l2.654-2.617.968.968-.305.914a1 1 0 0 0 .242 1.023l3.356 3.356a1 1 0 0 0 1.414 0l1.586-1.586a1 1 0 0 0 0-1.414l-3.356-3.356a1 1 0 0 0-1.023-.242L10.5 9.5l-.96-.96 2.68-2.643A3.005 3.005 0 0 0 16 3c0-.269-.035-.53-.102-.777l-2.14 2.141L12 4l-.364-1.757L13.777.102a3 3 0 0 0-3.675 3.68L7.462 6.46 4.793 3.793a1 1 0 0 1-.293-.707v-.071a1 1 0 0 0-.419-.814L1 0zm9.646 10.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708zM3 11l.471.242.529.026.287.445.445.287.026.529L5 13l-.242.471-.026.529-.445.287-.287.445-.529.026L3 15l-.471-.242L2 14.732l-.287-.445L1.268 14l-.026-.529L1 13l.242-.471.026-.529.445-.287.287-.445.529-.026L3 11z"/>
+                                <path d="M1 0L0 1l2.2 3.081a1 1 0 0 0 .815.419h.07a1 1 0 0 1 .708.293l2.675 2.675-2.617 2.654A3.003 3.003 0 0 0 0 13a3 3 0 1 0 5.878-.851l2.654-2.617.968.968-.305.914a1 1 0 0 0 .242 1.023l3.356 3.356a1 1 0 0 0 1.414 0l1.586-1.586a1 1 0 0 0 0-1.414l-3.356-3.356a1 1 0 0 0-1.023-.242L10.5 9.5l-.96-.96 2.68-2.643A3.005 3.005 0 0 0 16 3c0-.269-.035-.53-.102-.777l-2.14 2.141L12 4l-.364-1.757L13.777.102a3 3 0 0 0-3.675 3.68L7.462 6.46 4.793 3.793a1 1 0 0 1-.293-.707v-.071a1 1 0 0 0-.419-.814L1 0zm9.646 10.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708zM3 11l.471.242.529.026.287.445.445.287.026.529L5 13l-.242.471-.026.529-.445.287-.287.445-.529.026L3 15l-.471-.242L2 14.732l-.287-.445L1.268 14l-.026-.529L1 13l.242-.471.026-.529.445-.287.287-.445.529-.026L3 11z" />
                             </svg>
                             <br><small>Koreksi</small>
                         </a>
@@ -33,7 +34,7 @@
                     <li class="nav-item">
                         <a href="supercek.php" class="nav-link active">
                             <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" fill="currentColor" class="bi bi-trash-fill" viewBox="0 0 16 16">
-                                <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0z"/>
+                                <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0z" />
                             </svg>
                             <br><small>Delete</small>
                         </a>
@@ -87,7 +88,7 @@
     <script src="assets/vendor/airdatepicker/dist/js/i18n/datepicker.en.js"></script>
     <script src="assets/js/sweetalert2@10.js"></script>
     <script>
-        function isNumberKey(evt){
+        function isNumberKey(evt) {
             var charCode = (evt.which) ? evt.which : evt.keyCode
             if (charCode > 31 && (charCode < 48 || charCode > 57))
                 return false;
@@ -100,83 +101,87 @@
 
         $('#tgl_mulai').datepicker({
             autoClose: true,
-            dateFormat : "yyyy-mm-dd",
+            dateFormat: "yyyy-mm-dd",
             todayButton: new Date(),
-            maxDate : new Date(),
-            minDate : mindate,
+            maxDate: new Date(),
+            minDate: mindate,
         }).data('datepicker').selectDate(new Date());
 
         $('#tgl_selesai').datepicker({
             position: "bottom right",
             autoClose: true,
-            dateFormat : "yyyy-mm-dd",
+            dateFormat: "yyyy-mm-dd",
             todayButton: new Date(),
-            maxDate : new Date(),
-            minDate : mindate,
+            maxDate: new Date(),
+            minDate: mindate,
         }).data('datepicker').selectDate(new Date());
     </script>
 
     <script>
-        $(document).ready(function () {
+        $(document).ready(function() {
             // $( "#nip" ).val(localStorage.getItem("nip"));
 
-            $('.nutupin').focus( function() {
+            $('.nutupin').focus(function() {
                 $('.navbar-expand').hide();
             });
 
-            $('.nutupin').blur( function() {
+            $('.nutupin').blur(function() {
                 $('.navbar-expand').delay(250).fadeIn(50);
             });
 
-            $( "#nip" ).autocomplete({
+            $("#nip").autocomplete({
                 serviceUrl: "autocomplete/pegawai.php",
-                minChars: 4 ,
+                minChars: 4,
                 dataType: "JSON",
-                onSelect: function (suggestion) {
-                    $( "#nip" ).val(suggestion.nip);
+                onSelect: function(suggestion) {
+                    $("#nip").val(suggestion.nip);
                 }
             });
 
-            $('#submit').click(function(e){
+            $('#submit').click(function(e) {
                 e.preventDefault();
 
-                var nip         = $("#nip").val();
-                var tgl_mulai   = $("#tgl_mulai").val();
+                var nip = $("#nip").val();
+                var tgl_mulai = $("#tgl_mulai").val();
                 var tgl_selesai = $("#tgl_selesai").val();
 
                 if (nip && tgl_mulai && tgl_selesai) {
                     $.ajax({
                         type: "POST",
                         url: "action/nipada.php",
-                        data: {nip:nip},
+                        data: {
+                            nip: nip
+                        },
                         cache: false,
                         dataType: "html",
-                        success : function(ada){
-                            if(ada == 1){
+                        success: function(ada) {
+                            if (ada == 1) {
                                 $.ajax({
                                     type: "POST",
                                     url: "action/getsupercek.php",
-                                    data: {nip:nip, tgl_mulai:tgl_mulai, tgl_selesai:tgl_selesai},
+                                    data: {
+                                        nip: nip,
+                                        tgl_mulai: tgl_mulai,
+                                        tgl_selesai: tgl_selesai
+                                    },
                                     cache: false,
-                                    beforeSend: function(){
+                                    beforeSend: function() {
                                         $(".spinner-border").removeClass('d-none');
                                     },
-                                    success: function(data){
+                                    success: function(data) {
                                         $('#showresults').html(data).fadeIn();
                                     },
-                                    complete:function(){
+                                    complete: function() {
                                         $(".spinner-border").addClass('d-none');
                                     }
                                 });
-                            }
-                            else{
-                                Swal.fire("NIP Tidak Terdaftar","","error");
+                            } else {
+                                Swal.fire("NIP Tidak Terdaftar", "", "error");
                             }
                         }
                     });
-                }
-                else{
-                    Swal.fire("Form Tidak Lengkap","","warning");
+                } else {
+                    Swal.fire("Form Tidak Lengkap", "", "warning");
                 }
             });
         });
